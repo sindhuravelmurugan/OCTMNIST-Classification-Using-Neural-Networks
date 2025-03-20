@@ -53,3 +53,7 @@ The **OCTMNIST dataset** contains optical coherence tomography (OCT) images cate
 🔹 **Data Augmentation reduced accuracy**, suggesting excessive noise or variation in this dataset.
 
 ---
+
+🚀 This is a showcase repository for my project **OCTMNIST Classification Using Neural Networks**.
+The source code is currently private for personal reasons.
+
